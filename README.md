@@ -11,7 +11,7 @@ The Mypay Woocommerce Plugin seamlessly integrates the Mypay payment gateway int
 
 ## Installation
 
-1. Download the plugin zip file from [our GitHub repository](https://github.com/your-repository-link).
+1. Download the plugin zip file from [our GitHub repository](https://github.com/mahendrajungthapa/mypay.
 2. Log in to your WordPress admin panel.
 3. Navigate to Plugins -> Add New.
 4. Click on the "Upload Plugin" button and select the downloaded zip file.
@@ -30,11 +30,11 @@ Once configured, customers will see Mypay as a payment option during checkout. T
 
 ## Support
 
-For any inquiries or assistance regarding the plugin, please don't hesitate to contact our dedicated support team at [support@example.com](mailto:support@example.com). We are committed to providing prompt and reliable support to ensure your success.
+For any inquiries or assistance regarding the plugin, please don't hesitate to contact our dedicated support team at [support@mypay.com.np](mailto:support@mypay.com.np). We are committed to providing prompt and reliable support to ensure your success.
 
 ## Contributing
 
-We welcome contributions to enhance the Mypay Woocommerce Plugin! If you encounter any bugs or have suggestions for improvements, please submit an issue or create a pull request on [our GitHub repository](https://github.com/your-repository-link).
+I welcome contributions to enhance the Mypay Woocommerce Plugin! If you encounter any bugs or have suggestions for improvements, please submit an issue or create a pull request on [My GitHub repository](https://github.com/mahendrajungthapa).
 
 ## License
 
